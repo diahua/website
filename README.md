@@ -14,6 +14,7 @@
 ### Refraction
 
 ### Glossy Reflection
+![Image](nonhier_glossy_reflection_64_0.1.png) ![Image](nonhier_glossy_reflection_64_0.1.png)
 
 ### Glossy Refraction
 
