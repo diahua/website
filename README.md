@@ -1,10 +1,14 @@
-## Welcome to GitHub Pages
+## Ray Tracer
 
-You can use the [editor on GitHub](https://github.com/diahua/website/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+### Reflection 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Reflection is 
 
-### Markdown
+### Refraction 
+
+Refraction is 
+
+### Bump Mapping
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
