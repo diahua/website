@@ -1,7 +1,8 @@
 ## Ray Tracer
 
 ### Adaptive Anti-Aliasing
-Adaptive anti-aliasing is used to rmove jaggies only at pixels whose intensity differs from its neighbors by some threshold.
+Adaptive anti-aliasing is used to remove jaggies only at pixels whose intensity differs from its neighbors by some threshold.
+
 ![Image](nonhier_anti_alias.png)
 
 ### Soft Shadows 
