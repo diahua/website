@@ -20,4 +20,4 @@
 ### Extra Objective: Phong Shading
 
 ### Final Scene
-![Image](bob_phong.png)
+![Image](bob_no_phong.png) ![Image](bob_phong.png)
