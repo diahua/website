@@ -50,10 +50,7 @@ Multiple reflection rays are pertubed from the angle of reflection to create glo
 Multiple refraction rays are perturbed from the angle of refraction to create glossy refraction. Fresnel's law is used to ...
 
 ![Image](simple-cows_glossy_refract_4.png)
-*Glossy refraction using 4 rays*
-
 ![Image](simple-cows_glossy_refract_64.png)
-*Glossy refraction using 64 rays*
 
 ### Extra Objective: Phong Shading
 Barycentric coordinates are used to interpolate normal vectors.
