@@ -3,9 +3,9 @@
 ### Adaptive Anti-Aliasing
 Adaptive anti-aliasing is used to remove jaggies only at pixels whose intensity differs from its neighbors by some threshold.
 
-| <img src="antialiasing/no_antialias.png" alt="my alt text" width="256" height="256"/>  | Second Header |
-| ------------- | ------------- |
-| Image without antialiasing  | Content Cell  |
+| <img src="antialiasing/no_antialias.png" alt="my alt text" width="256" height="256"/>  |  <img src="antialiasing/antialias_border.png" alt="my alt text" width="256" height="256"/> |   <img src="antialiasing/antialias.png" alt="my alt text" width="256" height="256"/> |
+| ------------- | ------------- | ------------- |
+| Image without antialiasing  | Resampled pixels  | Antialiased image |
 
 <figure>
   <img src="antialiasing/no_antialias.png" alt="my alt text" width="256" height="256"/>
