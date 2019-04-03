@@ -4,11 +4,17 @@
 Adaptive anti-aliasing is used to remove jaggies only at pixels whose intensity differs from its neighbors by some threshold.
 
 <figure>
-  <img src="antialiasing/no_antialias.png" alt="my alt text"/>
+  <img src="antialiasing/no_antialias.png" alt="my alt text" width="256" height="256"/>
   <figcaption>No antialiasing.</figcaption>
 </figure>
-<img src="antialiasing/antialias_border.png" alt="image" width="256" height="256"/>
-<img src="antialiasing/antialias.png" alt="image" width="256" height="256"/>
+<figure>
+  <img src="antialiasing/antialias_border.png" alt="my alt text" width="256" height="256"/>
+  <figcaption>No antialiasing.</figcaption>
+</figure>
+<figure>
+  <img src="antialiasing/antialias.png" alt="my alt text" width="256" height="256"/>
+  <figcaption>No antialiasing.</figcaption>
+</figure>
 
 ### Soft Shadows 
 Shadow rays are distributed across the light source to create the appearance of soft shadows.
