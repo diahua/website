@@ -5,22 +5,28 @@ Adaptive anti-aliasing is used to remove jaggies only at pixels whose intensity 
 
 <figure>
   <img src="antialiasing/no_antialias.png" alt="my alt text" width="256" height="256"/>
-  <figcaption>No antialiasing.</figcaption>
+  <figcaption>Image without antialiasing.</figcaption>
 </figure>
 <figure>
   <img src="antialiasing/antialias_border.png" alt="my alt text" width="256" height="256"/>
-  <figcaption>No antialiasing.</figcaption>
+  <figcaption>Resampled pixels.</figcaption>
 </figure>
 <figure>
   <img src="antialiasing/antialias.png" alt="my alt text" width="256" height="256"/>
-  <figcaption>No antialiasing.</figcaption>
+  <figcaption>Antialiased image.</figcaption>
 </figure>
 
 ### Soft Shadows 
 Shadow rays are distributed across the light source to create the appearance of soft shadows.
 
-<img src="shadows/ref.png" alt="image" width="256" height="256"/>
-<img src="shadows/soft.png" alt="image" width="256" height="256"/>
+<figure>
+  <img src="shadows/ref.png" alt="my alt text" width="256" height="256"/>
+  <figcaption>Hard shadows.</figcaption>
+</figure>
+<figure>
+  <img src="shadows/soft.png" alt="image" width="256" height="256"/>
+  <figcaption>Soft shadows.</figcaption>
+</figure>
 
 ### Bump Mapping
 Bump mapping is implemented by using a height displacement to calculate perturbed normals, creating a bumpy or wrinkled appearance.
