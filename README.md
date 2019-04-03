@@ -6,12 +6,10 @@ Adaptive anti-aliasing is used to remove jaggies only at pixels whose intensity 
 <figure>
   <img src="antialiasing/no_antialias.png" alt="my alt text" width="256" height="256"/>
   <figcaption>Image without antialiasing.</figcaption>
-</figure>
-<figure>
+  
   <img src="antialiasing/antialias_border.png" alt="my alt text" width="256" height="256"/>
   <figcaption>Resampled pixels.</figcaption>
-</figure>
-<figure>
+
   <img src="antialiasing/antialias.png" alt="my alt text" width="256" height="256"/>
   <figcaption>Antialiased image.</figcaption>
 </figure>
