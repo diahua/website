@@ -28,7 +28,7 @@ Texture mapping is implemented for spheres, cubes, and meshes.
 ### Depth of Field
 A focal length and aperture can be specified to produce a depth of field effect.
 
-| <img src="dof/nonhier2_dof_700_20_64.png" alt="my alt text" width="256" height="256"/>  |  <img src="dof_nonhier2_dof_900_20_32.png" alt="my alt text" width="256" height="256"/> |   <img src="dof/nonhier2_dof_1100_20_32.png" alt="my alt text" width="256" height="256"/> |
+| <img src="dof/nonhier2_dof_700_20_64.png" alt="my alt text" width="256" height="256"/>  |  <img src="dof/nonhier2_dof_900_20_32.png" alt="my alt text" width="256" height="256"/> |   <img src="dof/nonhier2_dof_1100_20_32.png" alt="my alt text" width="256" height="256"/> |
 | Focal length of 700 | Focal length of 900 | Focal length of 1100 |
 
 ### Reflection
