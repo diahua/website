@@ -16,13 +16,13 @@ Shadow rays are distributed across the light source to create the appearance of 
 ### Bump Mapping
 Bump mapping is implemented by using a height displacement to calculate perturbed normals, creating a bumpy or wrinkled appearance.
 
-![Image](bump/simple_bump2.png)
-![Image](bump/simple_bump3.png)
+<img src="bump/simple_bump2.png" alt="image" width="512" height="512"/>
+<img src="bump/simple_bump3.png" alt="image" width="512" height="512"/>
 
 ### Texture Mapping
 Texture mapping is implemented for spheres, cubes, and meshes.
 
-![Image](texture/simple_texture.png)
+<img src="texture/simple_texture.png" alt="image" width="512" height="512"/>
 ![Image](texture/spot_textured.png)
 
 ### Depth of Field
