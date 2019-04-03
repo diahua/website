@@ -3,27 +3,21 @@
 ### Adaptive Anti-Aliasing
 Adaptive anti-aliasing is used to remove jaggies only at pixels whose intensity differs from its neighbors by some threshold.
 
-<center>
-
 | <img src="antialiasing/no_antialias.png" alt="my alt text" width="256" height="256"/>  |  <img src="antialiasing/antialias_border.png" alt="my alt text" width="256" height="256"/> |   <img src="antialiasing/antialias.png" alt="my alt text" width="256" height="256"/> |
-| ------------- | ------------- | ------------- |
 | Image without antialiasing  | Resampled pixels  | Antialiased image |
-
-</center>
 
 ### Soft Shadows 
 Shadow rays are distributed across the light source to create the appearance of soft shadows.
 
 | <img src="shadows/ref.png" alt="my alt text" width="256" height="256"/>  |  <img src="shadows/soft.png" alt="my alt text" width="256" height="256"/> |
-|: ------------- :|: ------------- :|
 | Hard shadows  | Soft shadows |
 
 
 ### Bump Mapping
 Bump mapping is implemented by using a height displacement to calculate perturbed normals, creating a bumpy or wrinkled appearance.
 
-<img src="bump/simple_bump2.png" alt="image" width="256" height="256"/>
-<img src="bump/simple_bump3.png" alt="image" width="256" height="256"/>
+| <img src="bump/simple_bump2.png" alt="my alt text" width="256" height="256"/>  |  <img src="bump/simple_bump3.png" alt="my alt text" width="256" height="256"/> |
+| Light from the right side  | Light from the left side |
 
 ### Texture Mapping
 Texture mapping is implemented for spheres, cubes, and meshes.
