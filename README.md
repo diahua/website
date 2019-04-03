@@ -50,7 +50,7 @@ Multiple reflection rays are pertubed from the angle of reflection to create glo
 | Mirror reflection | Glossy reflection |
 
 ### Glossy Refraction
-Multiple refraction rays are perturbed from the angle of refraction to create glossy refraction. Fresnel's law is used to ...
+Multiple refraction rays are perturbed from the angle of refraction to create glossy refraction.
 
 | <img src="refraction/simple-cows_refract_1.01.png" alt="my alt text" width="256" height="256"/>  |  <img src="glossy_refraction/simple-cows_glossy_refract_4_512_2.png" alt="my alt text" width="256" height="256"/> |   <img src="glossy_refraction/simple-cows_glossy_refract_64.png" alt="my alt text" width="256" height="256"/> |
 | Normal refraction | Glossy refraction using 4 rays | Glossy refraction using 64 rays |
