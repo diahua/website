@@ -38,7 +38,7 @@ Reflection is implemented for reflective objects, recursively casting a secondar
 | Mirror reflection | Colored reflection |
 
 ### Refraction
-Refraction is implemented for translucent objects, recursively casting a secondary ray in the direction of transmission given by Snell's law. Schlick's approximation of Fresnel's law is used to determine the ratio between reflected and refracted light for each ray. 
+Refraction is implemented for translucent objects, recursively casting a secondary ray in the direction of transmission given by Snell's law. Schlick's approximation of Fresnel's law is used to determine the ratio between reflected and refracted light for each ray. Note the reflection of the sky at the edges of the sphere in both images.
 
 | <img src="refraction/simple-cows_refract_1.01.png" alt="my alt text" width="300" height="300"/>  |  <img src="refraction/simple-cows_refract_1.33.png" alt="my alt text" width="300" height="300"/> |
 | Refraction index of 1.01 | Refraction index of 1.33 |
