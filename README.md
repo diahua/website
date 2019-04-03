@@ -3,65 +3,65 @@
 ### Adaptive Anti-Aliasing
 Adaptive anti-aliasing is used to remove jaggies only at pixels whose intensity differs from its neighbors by some threshold.
 
-![Image](antialiasing/no_antialias.png)
-![Image](antialiasing/antialias_border.png)
-![Image](antialiasing/antialias.png)
+<img src="antialiasing/no_antialias.png" alt="image" width="256" height="256"/>
+<img src="antialiasing/antialias_border.png" alt="image" width="256" height="256"/>
+<img src="antialiasing/antialias.png" alt="image" width="256" height="256"/>
 
 ### Soft Shadows 
 Shadow rays are distributed across the light source to create the appearance of soft shadows.
 
-![Image](shadows/ref.png)
-![Image](shadows/soft.png)
+<img src="shadows/ref.png" alt="image" width="256" height="256"/>
+<img src="shadows/soft.png" alt="image" width="256" height="256"/>
 
 ### Bump Mapping
 Bump mapping is implemented by using a height displacement to calculate perturbed normals, creating a bumpy or wrinkled appearance.
 
-<img src="bump/simple_bump2.png" alt="image" width="512" height="512"/>
-<img src="bump/simple_bump3.png" alt="image" width="512" height="512"/>
+<img src="bump/simple_bump2.png" alt="image" width="256" height="256"/>
+<img src="bump/simple_bump3.png" alt="image" width="256" height="256"/>
 
 ### Texture Mapping
 Texture mapping is implemented for spheres, cubes, and meshes.
 
-<img src="texture/simple_texture.png" alt="image" width="512" height="512"/>
-<img src="texture/spot_textured.png" alt="image" width="512" height="512"/>
+<img src="texture/simple_texture.png" alt="image" width="256" height="256"/>
+<img src="texture/spot_textured.png" alt="image" width="256" height="256"/>
 
 ### Depth of Field
 A focal length and aperture can be specified to produce a depth of field effect.
 
-![Image](dof/nonhier2_dof_700_20_64.png)
-![Image](dof/nonhier2_dof_900_20_32.png)
-![Image](dof/nonhier2_dof_1100_20_32.png)
+<img src="dof/nonhier2_dof_700_20_64.png" alt="image" width="256" height="256"/>
+<img src="dof/nonhier2_dof_900_20_32.png" alt="image" width="256" height="256"/>
+<img src="dof/nonhier2_dof_1100_20_32.png" alt="image" width="256" height="256"/>
 
 ### Reflection
 Reflection is implemented for reflective objects, recursively casting a secondary ray in the direction of reflection.
 
-![Image](reflection/nonhier2.png)
-![Image](reflection/nonhier2_refcolor.png)
+<img src="reflection/nonhier2.png" alt="image" width="256" height="256"/>
+<img src="reflection/nonhier2_refcolor.png" alt="image" width="256" height="256"/>
 
 ### Refraction
 Refraction is implemented for translucent objects, recursively casting a secondary ray in the direction of transmission given by Snell's law.
 
-![Image](refraction/simple-cows_refract_1.01.png)
-![Image](refraction/simple-cows_refract_1.33.png)
+<img src="refraction/simple-cows_refract_1.01.png" alt="image" width="256" height="256"/>
+<img src="refraction/simple-cows_refract_1.33.png" alt="image" width="256" height="256"/>
 
 ### Glossy Reflection
 Multiple reflection rays are pertubed from the angle of reflection to create glossy reflection.
 
-![Image](reflection/nonhier2.png)
-![Image](glossy_reflection/nonhier_glossy_reflection_64_0.05.png)
+<img src="reflection/nonhier2.png" alt="image" width="256" height="256"/>
+<img src="glossy_reflection/nonhier_glossy_reflection_64_0.05.png" alt="image" width="256" height="256"/>
 
 ### Glossy Refraction
 Multiple refraction rays are perturbed from the angle of refraction to create glossy refraction. Fresnel's law is used to ...
 
-![Image](refraction/simple-cows_refract_1.01.png)
-![Image](glossy_refraction/simple-cows_glossy_refract_4_512_2.png)
-![Image](glossy_refraction/simple-cows_glossy_refract_64.png)
+<img src="refraction/simple-cows_refract_1.01.png" alt="image" width="256" height="256"/>
+<img src="glossy_refraction/simple-cows_glossy_refract_4_512_2.png" alt="image" width="256" height="256"/>
+<img src="glossy_refraction/simple-cows_glossy_refract_64.png" alt="image" width="256" height="256"/>
 
 ### Extra Objective: Phong Shading
 Barycentric coordinates are used to interpolate normal vectors.
 
-![Image](phong/bob_no_phong.png) 
-![Image](phong/bob_phong.png)
+<img src="phong/bob_no_phong.png" alt="image" width="256" height="256"/>
+<img src="phong/bob_phong.png" alt="image" width="256" height="256"/>
 
 ### Final Scene
 A unique final scene is created which demonstrates the graphical objectives of the ray tracer.
