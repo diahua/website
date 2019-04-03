@@ -4,7 +4,7 @@
 Adaptive anti-aliasing is used to remove jaggies only at pixels whose intensity differs from its neighbors by some threshold.
 
 <figure>
-  <img src="{{site.url}}/antialiasing/no_antialias.png" alt="my alt text"/>
+  <img src="/antialiasing/no_antialias.png" alt="my alt text"/>
   <figcaption>No antialiasing.</figcaption>
 </figure>
 <img src="antialiasing/antialias_border.png" alt="image" width="256" height="256"/>
