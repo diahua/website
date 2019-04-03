@@ -23,7 +23,7 @@ Bump mapping is implemented by using a height displacement to calculate perturbe
 Texture mapping is implemented for spheres, cubes, and meshes.
 
 <img src="texture/simple_texture.png" alt="image" width="512" height="512"/>
-![Image](texture/spot_textured.png)
+<img src="texture/spot_textured.png" alt="image" width="512" height="512"/>
 
 ### Depth of Field
 A focal length and aperture can be specified to produce a depth of field effect.
