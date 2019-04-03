@@ -65,3 +65,6 @@ Phong shading is implemented, giving triangular meshes a smoother appearance. Ba
 A unique final scene is created which demonstrates the graphical objectives of the ray tracer. Note the use of texture mapping, Phong shading, bump mapping (for the wall), adaptive antialiasing, soft shadows, and glossy reflection (for the crystal ball). The models and textures were all found online (and triangulated and decimated using Blender).
 
 ![Image](scene/scene30.png)
+
+| <img src="scene/scene29.png" alt="my alt text" width="300" height="300"/>  |  <img src="scene/scene17.png" alt="my alt text" width="300" height="300"/> |
+| Mirror reflection | Depth of field | 
